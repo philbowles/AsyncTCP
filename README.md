@@ -22,6 +22,9 @@ bool isRecvPush(); // is the PSH flag set, i.e. is this the last packet?
 
 ---
 
+# Installation
+
+Please see [H4 Installer](https://github.com/philbowles/h4installer)
 # Issues
 
 ## If you want a *quick* resolution, please follow these rules:
